@@ -1,4 +1,4 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Taeik%20Kim's%20GitHub&fontColor=000000&animation=fadeIn)
 
 <!--
 **todtras/todtras** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
